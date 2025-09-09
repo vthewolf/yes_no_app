@@ -21,7 +21,7 @@ class ChatScreen extends StatelessWidget {
             backgroundImage: NetworkImage(chatPicture),
           ),
         ),
-        title: Text('Mi amor platónico 😍'),
+        title: Text('Scarlett 😍'),
         centerTitle: false,
       ),
       body: _ChatView(),
